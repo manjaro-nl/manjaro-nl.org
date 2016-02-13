@@ -1,2 +1,2 @@
 # manjaro-nl.org
-betreft website, dingen wat moet gebeuren
+Betreft de website, dingen die moeten gebeuren.
