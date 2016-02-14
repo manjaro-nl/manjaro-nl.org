@@ -1,0 +1,20 @@
+﻿# blog 19-02-2016
+
+
+
+Hallo Manjaronauten!
+
+
+Manjaro is raar en doet graag zijn eigending. Het dunkt soms niet maar veel weer wel.  Manjaro is hierdoor juist gegroeit.
+
+Maar hoe werkt Manjaro precies ?
+
+Manjaro is geen onafhankelijke distro. Het synchroniseerd met Arch-stable repo’s. Waar die pakketten naar manjaro repository’s worden verplaats en extra word getest voor eventueel veranderingen aan de systeem, als ook eigen tools die blijft werken.
+
+Manjaro-unstable word merendeel getest. Alhoewel de fixes al wel ophanden te zijn. Word het op die repo getest. Vervolgens gaat naar testing repo’s. Of de update uberhaupt werkt. Waarna naar stable te gaan. Het is omslachtig maar voor een nieuwe gebruiker is dat ideaal.
+
+Arch is overalgemeen niet zo onstabiel zoals men beweert. Het is wel bij vlagen dat een update een systeem kan vermorzelen. Het kan zo een keer in bepaalde periode zijn.
+
+Hiervoor komt manjaro in de plaats voor gebruikers die net iets luier zijn dan gemiddelde arch gebruiker.  Eigen gecompileerde kernels, als ook meerde keuzes. Modules die voor elke kernel is voor gecompileerd. Een raam werk die MHWD heet. Die ervoor zorgt dat systeem gebruikers vriendelijk kan worden gebruikt op de manjaro manier.  Als bijvoorbeeld nieuwe kernels installeerd dan doet MHWD de rest !
+
+
