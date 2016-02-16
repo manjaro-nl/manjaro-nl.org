@@ -10,11 +10,11 @@ Hierdoor is Manjaro juist gegroeid.
 
 Maar hoe werkt Manjaro precies ?
 
-Manjaro is geen onafhankelijke distro. Het synchroniseert met de Arch-stable repo’s. Waaruit pakketten worden verplaatst naar de repositories van Manjaro en extra getest worden op eventuele veranderingen van het systeem. Alsook de eigen tools die moeten blijven werken.
+Manjaro is geen onafhankelijke distro. Het synchroniseert met de Arch-stable repo’s. Waaruit pakketten naar de repositories van Manjaro worden gestuurd en extra worden getest op veranderingen in het systeem. Alsook de eigen tools die moeten blijven werken.
 
-Manjaro Unstable wordt grotendeels uitgetest met de fixes die reeds voor handen zijn. Vervolgens gaat het naar de Testing repo’s, om te kijken ofdat de update uberhaupt werkt. Om uiteindelijk te belanden in Stable. Het klinkt een beetje omslachtig, maar voor een nieuwe gebruiker is dit de meest ideale weg.
+Manjaro Unstable wordt grotendeels uitgetest met de fixes die reeds voor handen zijn. Vervolgens gaat het naar de Testing repo’s, om te kijken of de update uberhaupt werkt. Om uiteindelijk te belanden in Stable. Het klinkt een beetje omslachtig, maar voor een nieuwe gebruiker is dit de meest ideale weg.
 
-Arch is over het algemeen niet zo onstabiel als men beweert, maar bij vlagen kan het toch  voorvallen dat een update je hele systeem vermorzelt. Dit wil je zoveel mogelijk vermijden.
+Arch is over het algemeen veel stabieler in tegenstelling tot wat men soms beweert, maar bij vlagen kan het voorvallen dat een update je hele systeem vermorzelt. Dit wil je zoveel mogelijk vermijden.
 
-Juist daarom hebben we Manjaro in de plaats gekregen, voor gebruikers die net iets luier zijn dan de gemiddelde arch gebruiker. Met eigen gecompileerde kernels, alsook meer keuze. Modules die voor elke kernel zijn voorgecompileerd. Met een systemtool als MHWD, dat jouw systeem zo gebruiksvriendelijk mogelijk houdt. Dit is Manjaro!
+Juist daarom hebben we Manjaro in de plaats gekregen, voor gebruikers die net iets minder tijd willen besteden dan de gemiddelde Arch gebruiker. Met eigen gecompileerde kernels, alsook meer keuze. Modules die voor elke kernel zijn voorgecompileerd. Met een systemtool als MHWD, dat jouw systeem zo gebruiksvriendelijk mogelijk houdt. Dit is Manjaro!
 Probeer het zelf uit, met MHWD wordt het installeren van nieuwere kernels een fluitje van een cent.
