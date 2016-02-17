@@ -5,8 +5,7 @@
 Hallo Manjaronauten!
 
 
-Manjaro is een raar beestje met een eigen wil. Het dunkt soms niet maar veel weer wel.
-Hierdoor is Manjaro juist gegroeid.
+Manjaro is een raar beestje en heeft zijn eigen wil, maar komt uiteindelijk steeds met zijn pootjes terug op de grond. Hierdoor is Manjaro doorheen de jaren gegroeid.
 
 Maar hoe werkt Manjaro precies ?
 
